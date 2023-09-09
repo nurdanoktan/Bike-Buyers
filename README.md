@@ -2,7 +2,7 @@
 
 ![image](https://github.com/nurdanoktan/Bike-Sales/assets/112075689/30eaaf43-86dc-40a7-919c-7403ef1d9e91)
 
-Welcome to the GitHub repository for the Bike-Sales-Excel-Dashboard. This repository has `Bike Sales Dashboard.xlsx´ contains the original bike buyers dataset, a cleaned version of the dataset and an dashboard created using pivot tables. The dashboard offers insights into various aspects of bike buying behavior, such as income, gender, age, and commute distance. It includes slicers for filtering data based on education, marital status, and region.
+Welcome to the GitHub repository for the Bike-Sales-Excel-Dashboard. This repository has `Bike Sales Dashboard.xlsx` contains the original bike buyers dataset, a cleaned version of the dataset and an dashboard created using pivot tables. The dashboard offers insights into various aspects of bike buying behavior, such as income, gender, age, and commute distance. It includes slicers for filtering data based on education, marital status, and region.
 
 ## Dataset
 
